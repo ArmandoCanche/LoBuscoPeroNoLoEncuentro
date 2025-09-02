@@ -44,21 +44,19 @@ _Nota: La última pregunta generalmente se encuentra en el **PHQ-9** como un seg
 
 ## Minijuegos
 1. Esquiva a los perros <br><br>
-   **Mecánica** <br>
-   - En este minijuego el jugador puede moverse a la izquierda y a la derecha para esquivar los perros.
-   - Se cuenta con 3 vidas, cada vez que el personaje choque con un perro, se restará una vida.
-   - Los perros aparecerán de manera aleatoria entre las 3 calles y avanzarán de manera vertical a una velocidad fija.
-   - El juego termina cuando el jugador toma la cartera, la cual sale en un tiempo establecido.
-  
+  **Mecánica** <br>
+  En este minijuego, el jugador puede moverse a la izquierda y a la derecha para esquivar a los perros. Se cuenta con tres       vidas; cada vez que el personaje choque con un perro, se restará una vida. Los perros aparecerán de manera aleatoria entre     las tres calles y avanzarán verticalmente a una velocidad fija. El juego termina cuando el jugador toma la cartera, la cual    aparece después de un tiempo previamente establecido. <br><br>
   **Interfaz del juego**
   <div align="center">
-    <img src="Documentos/logo.png" alt="Pets Ride" width="300">
+    <img src="Capturas/InicioPerros.png" alt="Esquiva los perros" width="500"> <br>
+    <img src="Capturas/PerdistePerros.png" alt="Esquiva los perros" width="500"> <br>
+    <img src="Capturas/CarteraPerros.png" alt="Esquiva los perros" width="500">
   </div>
 
-3. Canción de cuna
-4. ¡A comer!
-5. Buscando las monedas
-6. Dale al topo
+2. Canción de cuna
+3. ¡A comer!
+4. Buscando las monedas
+5. Dale al topo
 
 ## Estructura de carpetas
 
