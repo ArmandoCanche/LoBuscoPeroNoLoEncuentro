@@ -60,6 +60,20 @@ _Nota: La última pregunta generalmente se encuentra en el **PHQ-9** como un seg
 
 ## Estructura de carpetas
 
+res:: <br>
+├── addons <br>
+├── Assets <br>
+├── CreacionPersonaje <br>
+├── Creditos <br>
+├── datosUsuario <br>
+├── Escenas <br>
+├── menuPrincipal <br>
+├── NickUsuario <br>
+├── Player <br>
+├── resources <br>
+├── Scripts <br>
+└── Singleton <br>
+
 ## Documentos
 
 ## Colaboradores
