@@ -43,6 +43,22 @@ _Un Ejemplo puede encontrarse dentro del documento GDD detección de los síntom
 _Nota: La última pregunta generalmente se encuentra en el **PHQ-9** como un seguimiento de los síntomas deportados en el cuestionario. En este contexto particular del juego, no tiene valor como preguntas anteriores y solo se usará para su análisis cuantitativo y verificar si la puntuación final coincide con la respuesta final del usuario. Por ejemplo, si se obtuvo una puntuación de 20 puntos, esto sugeriría que el usuario podría tener depresión severa, pero si en la última pregunta respondió que no ha sido nada difícil llevar a cabo su vida cotidiana, entonces se podría pensar que no se contestaron adecuadamente las nueve preguntas anteriores._
 
 ## Minijuegos
+1. Esquiva a los perros <br><br>
+   **Mecánica** <br>
+   - En este minijuego el jugador puede moverse a la izquierda y a la derecha para esquivar los perros.
+   - Se cuenta con 3 vidas, cada vez que el personaje choque con un perro, se restará una vida.
+   - Los perros aparecerán de manera aleatoria entre las 3 calles y avanzarán de manera vertical a una velocidad fija.
+   - El juego termina cuando el jugador toma la cartera, la cual sale en un tiempo establecido.
+  
+  **Interfaz del juego**
+  <div align="center">
+    <img src="Documentos/logo.png" alt="Pets Ride" width="300">
+  </div>
+
+3. Canción de cuna
+4. ¡A comer!
+5. Buscando las monedas
+6. Dale al topo
 
 ## Estructura de carpetas
 
