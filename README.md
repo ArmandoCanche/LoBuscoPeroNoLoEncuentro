@@ -46,7 +46,8 @@ _Nota: La última pregunta generalmente se encuentra en el **PHQ-9** como un seg
 1. Esquiva a los perros <br><br>
   **Mecánica** <br>
   En este minijuego, el jugador puede moverse a la izquierda y a la derecha para esquivar a los perros. Se cuenta con tres       vidas; cada vez que el personaje choque con un perro, se restará una vida. Los perros aparecerán de manera aleatoria entre     las tres calles y avanzarán verticalmente a una velocidad fija. El juego termina cuando el jugador toma la cartera, la cual    aparece después de un tiempo previamente establecido. <br><br>
-  **Interfaz del juego**
+
+   **Interfaz del juego**
   <div align="center">
     <img src="Capturas/InicioPerros.png" alt="Esquiva los perros" width="500"> <br>
     <img src="Capturas/PerdistePerros.png" alt="Esquiva los perros" width="500"> <br>
@@ -54,9 +55,49 @@ _Nota: La última pregunta generalmente se encuentra en el **PHQ-9** como un seg
   </div>
 
 2. Canción de cuna
+  **Mecánica** <br>
+   Lorem ipsum dolor sit amet consectetur adipiscing, elit sed est orci velit dictum neque, ultricies magnis posuere morbi mollis. Nisi sem natoque porttitor nunc sociis ligula cum, suscipit faucibus torquent inceptos parturient turpis, posuere mi ut augue eleifend lectus. Pretium montes duis eget commodo dapibus tristique imperdiet, phasellus class urna nunc vehicula vitae aenean, vivamus iaculis diam accumsan risus integer.<br><br>
+
+   **Interfaz del juego**
+  <div align="center">
+    <!-- Insertar imagenes aquí -->
+    <!-- <img src="Capturas/InicioPerros.png" alt="Esquiva los perros" width="500"> <br>
+    <img src="Capturas/PerdistePerros.png" alt="Esquiva los perros" width="500"> <br>
+    <img src="Capturas/CarteraPerros.png" alt="Esquiva los perros" width="500"> -->
+  </div>
 3. ¡A comer!
+  **Mecánica** <br>
+   Lorem ipsum dolor sit amet consectetur adipiscing, elit sed est orci velit dictum neque, ultricies magnis posuere morbi mollis. Nisi sem natoque porttitor nunc sociis ligula cum, suscipit faucibus torquent inceptos parturient turpis, posuere mi ut augue eleifend lectus. Pretium montes duis eget commodo dapibus tristique imperdiet, phasellus class urna nunc vehicula vitae aenean, vivamus iaculis diam accumsan risus integer.<br><br>
+
+   **Interfaz del juego**
+  <div align="center">
+    <!-- Insertar imagenes aquí -->
+    <!-- <img src="Capturas/InicioPerros.png" alt="Esquiva los perros" width="500"> <br>
+    <img src="Capturas/PerdistePerros.png" alt="Esquiva los perros" width="500"> <br>
+    <img src="Capturas/CarteraPerros.png" alt="Esquiva los perros" width="500"> -->
+  </div>
 4. Buscando las monedas
+  **Mecánica** <br>
+   Lorem ipsum dolor sit amet consectetur adipiscing, elit sed est orci velit dictum neque, ultricies magnis posuere morbi mollis. Nisi sem natoque porttitor nunc sociis ligula cum, suscipit faucibus torquent inceptos parturient turpis, posuere mi ut augue eleifend lectus. Pretium montes duis eget commodo dapibus tristique imperdiet, phasellus class urna nunc vehicula vitae aenean, vivamus iaculis diam accumsan risus integer.<br><br>
+
+   **Interfaz del juego**
+  <div align="center">
+    <!-- Insertar imagenes aquí -->
+    <!-- <img src="Capturas/InicioPerros.png" alt="Esquiva los perros" width="500"> <br>
+    <img src="Capturas/PerdistePerros.png" alt="Esquiva los perros" width="500"> <br>
+    <img src="Capturas/CarteraPerros.png" alt="Esquiva los perros" width="500"> -->
+  </div>
 5. Dale al topo
+  **Mecánica** <br>
+   Lorem ipsum dolor sit amet consectetur adipiscing, elit sed est orci velit dictum neque, ultricies magnis posuere morbi mollis. Nisi sem natoque porttitor nunc sociis ligula cum, suscipit faucibus torquent inceptos parturient turpis, posuere mi ut augue eleifend lectus. Pretium montes duis eget commodo dapibus tristique imperdiet, phasellus class urna nunc vehicula vitae aenean, vivamus iaculis diam accumsan risus integer.<br><br>
+
+   **Interfaz del juego**
+  <div align="center">
+    <!-- Insertar imagenes aquí -->
+    <!-- <img src="Capturas/InicioPerros.png" alt="Esquiva los perros" width="500"> <br>
+    <img src="Capturas/PerdistePerros.png" alt="Esquiva los perros" width="500"> <br>
+    <img src="Capturas/CarteraPerros.png" alt="Esquiva los perros" width="500"> -->
+  </div>
 
 ## Estructura de carpetas
 
