@@ -54,6 +54,8 @@ _Nota: La última pregunta generalmente se encuentra en el **PHQ-9** como un seg
     <img src="Capturas/CarteraPerros.png" alt="Esquiva los perros" width="500">
   </div>
 
+  <br><br>
+
 2. Canción de cuna
   **Mecánica** <br>
    Lorem ipsum dolor sit amet consectetur adipiscing, elit sed est orci velit dictum neque, ultricies magnis posuere morbi mollis. Nisi sem natoque porttitor nunc sociis ligula cum, suscipit faucibus torquent inceptos parturient turpis, posuere mi ut augue eleifend lectus. Pretium montes duis eget commodo dapibus tristique imperdiet, phasellus class urna nunc vehicula vitae aenean, vivamus iaculis diam accumsan risus integer.<br><br>
@@ -65,17 +67,30 @@ _Nota: La última pregunta generalmente se encuentra en el **PHQ-9** como un seg
     <img src="Capturas/PerdistePerros.png" alt="Esquiva los perros" width="500"> <br>
     <img src="Capturas/CarteraPerros.png" alt="Esquiva los perros" width="500"> -->
   </div>
+
 3. ¡A comer!
   **Mecánica** <br>
-   Lorem ipsum dolor sit amet consectetur adipiscing, elit sed est orci velit dictum neque, ultricies magnis posuere morbi mollis. Nisi sem natoque porttitor nunc sociis ligula cum, suscipit faucibus torquent inceptos parturient turpis, posuere mi ut augue eleifend lectus. Pretium montes duis eget commodo dapibus tristique imperdiet, phasellus class urna nunc vehicula vitae aenean, vivamus iaculis diam accumsan risus integer.<br><br>
+   En este minijuego, el jugador participa en una máquina de suerte con temática de tiendita de la esquina. Para iniciar una jugada, `debe hacer click en la bola roja de la máquina`, lo que activa las 3 hileras de símbolos. Cada partida tiene un costo de `3 monedas` y el jugador comienza con un total de `9 monedas`.<br><br>
+
+   El objetivo es acumular monedas alineando las distintas comidas (tacos, pollo empanizado, pitahaya, piña, helado, amrquesita y hot-dogs). Dependiendo de la combinación obtenida, se otorgan premios en monedas: dos figuras iguales o tres figuras iguales aumentan el saldo del jugador, mientras que no obtener coincidencias no genera recompensa. <br> <br>
+
+   El juego finaliza de dos maneras:
+
+   * **Victoria**: Al alcanzar `100 monedas`.
+   * **Derrota**: Al quedarse `sin monedas`. En este caso, el jugador puede presionar un botón de reinicio para volver a intentarlo. <br> <br>
+
+   Este minijuego combina azar y expectativa, mateniendo la emoción de cada tirada al mostrar de forma inmediata las ganancias obtenidas según la combinación de alimentos alineados. <br> <br>
 
    **Interfaz del juego**
   <div align="center">
-    <!-- Insertar imagenes aquí -->
-    <!-- <img src="Capturas/InicioPerros.png" alt="Esquiva los perros" width="500"> <br>
-    <img src="Capturas/PerdistePerros.png" alt="Esquiva los perros" width="500"> <br>
-    <img src="Capturas/CarteraPerros.png" alt="Esquiva los perros" width="500"> -->
+    <img src="Capturas/InicioMaquina.png" alt="Esquiva los perros" width="500"> <br>
+    <img src="Capturas/JugarMaquina.png" alt="Esquiva los perros" width="500"> <br>
+    <img src="Capturas/GanarMaquina.png" alt="Esquiva los perros" width="500"> <br>
+    <img src="Capturas/PerdisteMaquina.png" alt="Esquiva los perros" width="500">
   </div>
+
+  <br><br>
+
 4. Buscando las monedas
   **Mecánica** <br>
    Lorem ipsum dolor sit amet consectetur adipiscing, elit sed est orci velit dictum neque, ultricies magnis posuere morbi mollis. Nisi sem natoque porttitor nunc sociis ligula cum, suscipit faucibus torquent inceptos parturient turpis, posuere mi ut augue eleifend lectus. Pretium montes duis eget commodo dapibus tristique imperdiet, phasellus class urna nunc vehicula vitae aenean, vivamus iaculis diam accumsan risus integer.<br><br>
@@ -87,6 +102,7 @@ _Nota: La última pregunta generalmente se encuentra en el **PHQ-9** como un seg
     <img src="Capturas/PerdistePerros.png" alt="Esquiva los perros" width="500"> <br>
     <img src="Capturas/CarteraPerros.png" alt="Esquiva los perros" width="500"> -->
   </div>
+
 5. Dale al topo
   **Mecánica** <br>
    Lorem ipsum dolor sit amet consectetur adipiscing, elit sed est orci velit dictum neque, ultricies magnis posuere morbi mollis. Nisi sem natoque porttitor nunc sociis ligula cum, suscipit faucibus torquent inceptos parturient turpis, posuere mi ut augue eleifend lectus. Pretium montes duis eget commodo dapibus tristique imperdiet, phasellus class urna nunc vehicula vitae aenean, vivamus iaculis diam accumsan risus integer.<br><br>
@@ -117,10 +133,8 @@ res:: <br>
 
 _Puedes ver una explicación corta de cada carpeta de la `Estructura de carpetas del proyecto` dandole click._
 ## Documentos
-* [Cronograma del proyecto](Documentos/Cronograma.pdf)
-* [Plan de gestión de costes y línea base de costes](Documentos/Plan-Gestión-Costes-LineaBaseCostes.pdf)
-* [Plan de gestión de riesgos](Documentos/Plan-Gestión-Riesgos.pdf)
-* [Plan de gestión de configuración y de cambios](Documentos/Plan-Gestión-Configuracion-Y-Cambios.pdf)
+* [GDD detección de los síntomas de represión](Documentos/GDD%20deteccion%20de%20los%20sintomas%20de%20depresion.pdf)
+
 
 ## Colaboradores
 
