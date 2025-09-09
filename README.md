@@ -131,9 +131,9 @@ res:: <br>
 ├── [Scripts]() <br>
 └── [Singleton]() <br>
 
-_Puedes ver una explicación corta de cada carpeta de la `Estructura de carpetas del proyecto` dandole click._
+_Puedes ver una explicación corta de cada carpeta de la `Estructura de carpetas del proyecto` dandole click a la carpeta específica._
 ## Documentos
-* [GDD detección de los síntomas de represión](Documentos/GDD%20deteccion%20de%20los%20sintomas%20de%20depresion.pdf)
+* [GDD detección de los síntomas de represión](Documentos/GDD%20deteccion%20de%20los%20sintomas%20de%20depresion_compressed.pdf)
 
 
 ## Colaboradores
