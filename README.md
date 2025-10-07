@@ -57,14 +57,12 @@ _Nota: La última pregunta generalmente se encuentra en el **PHQ-9** como un seg
 
 2. Canción de cuna
   **Mecánica** <br>
-   Lorem ipsum dolor sit amet consectetur adipiscing, elit sed est orci velit dictum neque, ultricies magnis posuere morbi mollis. Nisi sem natoque porttitor nunc sociis ligula cum, suscipit faucibus torquent inceptos parturient turpis, posuere mi ut augue eleifend lectus. Pretium montes duis eget commodo dapibus tristique imperdiet, phasellus class urna nunc vehicula vitae aenean, vivamus iaculis diam accumsan risus integer.<br><br>
+   En este minijuego, caerán bolitas desde arriba y el jugador deberá presionar la barra `ESPACIO` justo cuando la bolita esté sobre la cajita para no perder vida. El objetivo de este juego es que el jugador aguante sin perder sus 3 vidas un tiempo total de 40 segundos. Cada que la bolita se pase y el jugador no haya presionado a tiempo la barra de `ESPACIO`, este perderá vidas. Si el jugador llega a perder, tiene la oportunidad de volver a intentarlo, ya que es necesario pasar el minijuego para continuar con la historia.<br><br>
 
    **Interfaz del juego**
   <div align="center">
-    <!-- Insertar imagenes aquí -->
-    <!-- <img src="Capturas/InicioPerros.png" alt="Esquiva los perros" width="500"> <br>
-    <img src="Capturas/PerdistePerros.png" alt="Esquiva los perros" width="500"> <br>
-    <img src="Capturas/CarteraPerros.png" alt="Esquiva los perros" width="500"> -->
+    <img src="Capturas/CancionDeCunaInterfaz.png" alt="Esquiva los perros" width="500"> <br>
+    <img src="Capturas/CancionDeCunaPerdiste.png" alt="Esquiva los perros" width="500"> <br>
   </div>
 
 3. ¡A comer!
@@ -104,14 +102,13 @@ _Nota: La última pregunta generalmente se encuentra en el **PHQ-9** como un seg
 
 5. Dale al topo
   **Mecánica** <br>
-   Lorem ipsum dolor sit amet consectetur adipiscing, elit sed est orci velit dictum neque, ultricies magnis posuere morbi mollis. Nisi sem natoque porttitor nunc sociis ligula cum, suscipit faucibus torquent inceptos parturient turpis, posuere mi ut augue eleifend lectus. Pretium montes duis eget commodo dapibus tristique imperdiet, phasellus class urna nunc vehicula vitae aenean, vivamus iaculis diam accumsan risus integer.<br><br>
+   En este minijuego, el jugador tendrá un martillo, con el que deberá pegarle a los topos, evitando siempre pegarle a los gatitos que salgan. El jugador contará con 3 vidas, cada que pagué a algún gatito se le restará una. De igual forma contará con 4 rondas, cada ronda le pide cierto puntaje para pasar a la siguiente, un topo da un total de 100 puntos. Conforme pase de ronda, la dificultad sube, y los animalitos aparecen con mayor velocidad.<br><br>
 
    **Interfaz del juego**
   <div align="center">
     <!-- Insertar imagenes aquí -->
-    <!-- <img src="Capturas/InicioPerros.png" alt="Esquiva los perros" width="500"> <br>
-    <img src="Capturas/PerdistePerros.png" alt="Esquiva los perros" width="500"> <br>
-    <img src="Capturas/CarteraPerros.png" alt="Esquiva los perros" width="500"> -->
+   <img src="Capturas/DaleAlTopo.png" alt="Esquiva los perros" width="500"> <br>
+   <img src="Capturas/DaleAlTopoPerdiste.png" alt="Esquiva los perros" width="500"><br>
   </div>
 
 ## Estructura de carpetas del Proyecto
